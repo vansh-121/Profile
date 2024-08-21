@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D03AQE_BVlwd-8HMA/profile-displayphoto-shrink_800_800/0/1684992616309?e=1697673600&v=beta&t=EzLLqK7sNUNSsBm-qhsyWeYVcwFWUPkWLVM1GSajuXg"  />
-</div>
+<img align = "center"> ![1684992616735](https://github.com/user-attachments/assets/ccca9b00-34dd-4d69-a318-4b9b3b128608) </img>
+
+
+
 
 ###
 
